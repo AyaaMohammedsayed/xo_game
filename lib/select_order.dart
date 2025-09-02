@@ -29,7 +29,7 @@ class SelectOrder extends StatelessWidget {
         
         ),
           Spacer(),
-        Padding(
+          Padding(
           padding: const EdgeInsets.symmetric(horizontal: 16,vertical:26 ),
           child: Row(
             children: [
