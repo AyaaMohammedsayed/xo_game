@@ -34,7 +34,7 @@ class SelectOrder extends StatelessWidget {
           child: Row(
             children: [
               Expanded(child: RoleBorad(role: 'x')),
-              SizedBox(width: 15,),
+                SizedBox(width: 15,),
               Expanded(child: RoleBorad(role: 'o')),
             ],
           ),
